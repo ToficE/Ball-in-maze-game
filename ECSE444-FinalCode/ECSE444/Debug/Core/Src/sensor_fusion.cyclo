@@ -1,0 +1,5 @@
+sensor_fusion.c:76:6:Sensors_Init	1
+sensor_fusion.c:88:6:Sensors_DeInit	1
+sensor_fusion.c:105:6:Set_Sampling_Frequency	1
+sensor_fusion.c:114:6:Measure_Gyro_Bias	2
+sensor_fusion.c:129:6:Measure_Orientation	1

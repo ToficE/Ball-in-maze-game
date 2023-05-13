@@ -1,0 +1,13 @@
+maze.c:67:6:mazeDisplayInit	1
+maze.c:81:6:writeMazesToFlash	1
+maze.c:88:5:determineStartPosition	3
+maze.c:99:6:initializeSounds	1
+maze.c:119:6:playSounds	1
+maze.c:147:6:playGameOverSound	1
+maze.c:155:6:updateTime	2
+maze.c:172:6:selectRandomMaze	1
+maze.c:181:6:clearScreen	1
+maze.c:186:6:displayMaze1	4
+maze.c:199:6:convertLoadedMazeToDisplayedMaze	10
+maze.c:244:6:writeMazeToSectors	2
+maze.c:265:6:readMazeFromSector	1

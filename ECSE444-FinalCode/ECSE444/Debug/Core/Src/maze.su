@@ -1,0 +1,13 @@
+../Core/Src/maze.c:67:6:mazeDisplayInit	8	static
+../Core/Src/maze.c:81:6:writeMazesToFlash	8	static
+../Core/Src/maze.c:88:5:determineStartPosition	16	static
+../Core/Src/maze.c:99:6:initializeSounds	4	static
+../Core/Src/maze.c:119:6:playSounds	16	static
+../Core/Src/maze.c:147:6:playGameOverSound	16	static
+../Core/Src/maze.c:155:6:updateTime	40	static
+../Core/Src/maze.c:172:6:selectRandomMaze	16	static
+../Core/Src/maze.c:181:6:clearScreen	8	static
+../Core/Src/maze.c:186:6:displayMaze1	16	static
+../Core/Src/maze.c:199:6:convertLoadedMazeToDisplayedMaze	48	static
+../Core/Src/maze.c:244:6:writeMazeToSectors	24	static
+../Core/Src/maze.c:265:6:readMazeFromSector	24	static
